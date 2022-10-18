@@ -1,4 +1,2 @@
-Hi, I'm Full Stack Software Enginner, I’m interested in decentralized applications (DeFi domain) and Data Science (oncology domain).
-🌱 I’m currently starting OncoHub open source project.
+<p align="center">Full Stack Software Enginner, interested in decentralized applications (DeFi domain) and Data Science (buisness and oncology domain).</p>
 
-📫 How to reach me ...
