@@ -1,2 +1,4 @@
-<p align="center">Full Stack Software Enginner, interested in decentralized applications (DeFi domain) and Data Science (buisness and oncology domain).</p>
+<p align="center">Full Stack, Apps & Dapps, ML engineering.</p>
 
+- decentralized applications (DeFi👨‍💻 domain)
+- Data Science (small buisness🌱 and oncology🧬 domain)
