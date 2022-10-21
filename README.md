@@ -1,4 +1,4 @@
-<img alt="chain" src="[https://github.com/EddieHubCommunity/Branding/raw/main/community/Eddie_banner_GIF.gif](https://user-images.githubusercontent.com/34304253/197192811-8ba84476-51ef-4fd9-b2ff-fb4f1f95d43e.png)" /></a>
+<img alt="chain" src="https://user-images.githubusercontent.com/34304253/197192811-8ba84476-51ef-4fd9-b2ff-fb4f1f95d43e.png" /></a>
 
 <p align="center">Full Stack, Apps & Dapps, ML engineering.</p>
 
