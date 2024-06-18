@@ -4,7 +4,6 @@
 
 <p align="center">Data Engineering 👨‍💻, Decentralized apps ⛓.</p>
 
-I'm Software Enginner, interested in Data Engineering especially ML (domain: DeFi, Oncology) and decentralized applications.
-OncoHub Creator (https://www.oncohub.xyz/).
+I'm Software Enginner, interested in Data Engineering especially ML (domain: DeFi) and decentralized applications.
 
 If you would like to read more abou me, see: https://www.rskrzydelski.dev/about.
