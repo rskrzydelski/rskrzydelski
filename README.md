@@ -19,9 +19,9 @@
 
 ### 🌐 Open Source & Projects
 
-- 🚀 **[Your-Project-Name](https://github.com/block-forest-studio/collector-engine)** —  
+- 🚀 **[collector-engine](https://github.com/block-forest-studio/collector-engine)** —  
   Open-source toolkit for fetching and aggregating data from major DeFi protocols.  
-  *(part of [@my-org](https://github.com/block-forest-studio))*  
+  *(part of [@block-forest-studio](https://github.com/block-forest-studio))*  
 
 - 🧠 **Learning repositories** —  
   Experiments and playgrounds for Solidity, Cairo, and smart contract security.
