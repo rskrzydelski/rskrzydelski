@@ -23,9 +23,6 @@
   Open-source toolkit for fetching and aggregating data from major DeFi protocols.  
   *(part of [@block-forest-studio](https://github.com/block-forest-studio))*  
 
-- 🧠 **Learning repositories** —  
-  Experiments and playgrounds for Solidity, Cairo, and smart contract security.
-
 ---
 
 ### 🧰 Tech Stack
