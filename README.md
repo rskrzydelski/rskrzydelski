@@ -40,8 +40,7 @@
 
 ### 📫 Let's connect
 
-- 🌐 [Your Website / Portfolio](https://rskrzydelski.dev)  
-- 💻 [GitHub Organization](https://github.com/my-org)  
+- 🌐 [Portfolio](https://rskrzydelski.dev)  
 - 🐦 [Twitter / X](https://twitter.com/yourhandle)  
 
 ---
