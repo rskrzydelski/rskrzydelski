@@ -41,7 +41,7 @@
 ### 📫 Let's connect
 
 - 🌐 [Portfolio](https://rskrzydelski.dev)  
-- 🐦 [Twitter / X](https://twitter.com/yourhandle)  
+- 🐦 [Twitter / X](https://x.com/rs_dev_x)  
 
 ---
 
