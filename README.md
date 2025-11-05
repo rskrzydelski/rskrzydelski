@@ -29,9 +29,10 @@
 
 | Area | Tools & Frameworks |
 |------|--------------------|
-| Backend | Python, FastAPI, SQLAlchemy, PostgreSQL, Docker |
-| Web3 | web3.py, ethers.js, Solidity, Cairo |
-| Data | Pandas, asyncio, REST/WebSocket APIs |
+| Backend | Python, FastAPI, SQLAlchemy, PostgreSQL, Docker, Redis, Kafka, ... |
+| Web3 | web3.py, ethers.js, Foundry, Solidity, Cairo |
+| Data | Pandas, Polars, Kedro |
+| Network | REST/WebSocket APIs, gRPC, protobuf |
 | DevOps | GitHub Actions, Docker Compose |
 | Learning | ZK-rollups, Starknet, on-chain analytics |
 
