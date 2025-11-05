@@ -33,14 +33,14 @@
 | Web3 | web3.py, ethers.js, Foundry, Solidity, Cairo |
 | Data | Pandas, Polars, Kedro |
 | Network | REST/WebSocket APIs, gRPC, protobuf |
-| DevOps | GitHub Actions, Docker Compose |
+| DevOps | GitHub Actions, AWS |
 | Learning | ZK-rollups, Starknet, on-chain analytics |
 
 ---
 
 ### 📫 Let's connect
 
-- 🌐 [Your Website / Portfolio](https://mysite.dev)  
+- 🌐 [Your Website / Portfolio](https://rskrzydelski.dev)  
 - 💻 [GitHub Organization](https://github.com/my-org)  
 - 🐦 [Twitter / X](https://twitter.com/yourhandle)  
 
