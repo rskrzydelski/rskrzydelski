@@ -4,7 +4,6 @@
 
 🏗 **Backend Developer** (Python) with a deep interest in **Web3, DeFi and blockchain data**.  
 💻 Building open-source tools to collect and analyze on-chain data from DeFi protocols.  
-📜 Currently expanding into **Solidity** and **smart contract development**, with strong fundamentals in blockchain systems.
 
 ---
 
