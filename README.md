@@ -11,16 +11,7 @@
 
 - 🐍 **Backend engineering** — FastAPI, asyncio, data pipelines, APIs, and automation.  
 - 🪙 **DeFi data** — indexing, analytics, and integrations with on-chain protocols.  
-- ⚙️ **Smart contracts** — learning Solidity and Cairo, exploring on-chain automation and vault strategies.  
 - 🧾 **Blockchain fundamentals** — cryptography, consensus, tokenomics, and architecture.
-
----
-
-### 🌐 Open Source & Projects
-
-- 🚀 **[collector-engine](https://github.com/block-forest-studio/collector-engine)** —  
-  Open-source toolkit for fetching and aggregating data from major DeFi protocols.  
-  *(part of [@block-forest-studio](https://github.com/block-forest-studio))*  
 
 ---
 
@@ -28,7 +19,7 @@
 
 | Area | Tools & Frameworks |
 |------|--------------------|
-| Backend | Python, FastAPI, SQLAlchemy, PostgreSQL, Docker, Redis, Kafka, ... |
+| Backend | Python, FastAPI, SQLAlchemy, PostgreSQL, Docker, Redis, Kafka, Microservices, Event-driven Architecture, ... |
 | Web3 | web3.py, ethers.js, Foundry, Solidity, Cairo |
 | Data | Pandas, Polars, Kedro |
 | Network | REST/WebSocket APIs, gRPC, protobuf |
