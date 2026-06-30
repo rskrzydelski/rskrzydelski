@@ -3,7 +3,6 @@
 # 👋 Hey, I'm a developer 🏗 — DeFi enthusiast & crypto investor ₿
 
 🏗 **Backend Developer** (Python) with a deep interest in **Web3, DeFi and blockchain data**.  
-💻 Building open-source tools to collect and analyze on-chain data from DeFi protocols.  
 
 ---
 
